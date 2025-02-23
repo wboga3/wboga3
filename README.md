@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wboga3
+- 👋 Hi, my name is Wouter Bogaert. I am a Computer Vision Engineer at Orsi Academy and CS PhD student at Ghent University, Belgium.
 - 👀 I’m interested in making computers understand surgery 🩺
 - 🌱 I’m currently learning novel methods in ASR and VLMs
 - 💞️ I’m looking to collaborate on LLMs and VLMs in surgery
